@@ -17,8 +17,8 @@
 #include <Arduino_JSON.h>
 
 // Replace with your network credentials
-const char* ssid = "@NU-WiFi-5G";
-const char* password = "66366322";
+const char* ssid = "";//Enter your Internet name
+const char* password = "";//Enter your password
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
